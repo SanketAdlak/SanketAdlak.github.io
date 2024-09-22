@@ -1,7 +1,8 @@
+"use client";
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
-import { TextGenerateEffect } from './ui/text-generate-effect'
-import Magicbutton from './ui/Magicbutton'
+import { TextGenerateEffect } from './ui/TextGenerateEffect'
+import MagicButton from './MagicButton'
 import { FaLocationArrow } from 'react-icons/fa6'
 
 const Hero = () => {
@@ -18,14 +19,14 @@ const Hero = () => {
         </div>
         <div className='flex justify-center relative my-20 z-10'>
             <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'> 
-                <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80 '> Dynamic webs </h2>
-                <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="Transforming softwares into products" />
+                <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80 '>Hi, I&apos;m </h2>
+                <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="SANKET ADLAK" />
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                    Hi I&apos;m Sanket, Aspiring Product Manager.
-
+                    A student at IIIT Hyderabad and Aspiring Product Manager.
+                    .
                 </p>
                 <a href='#about'>
-                   <Magicbutton title="About me?" icon={<FaLocationArrow/>} position='right'/> 
+                   <MagicButton title="About me?" icon={<FaLocationArrow/>} position='right'/> 
                 </a>
             </div>
         </div>
