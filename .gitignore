@@ -1,0 +1,13 @@
+# Ruby Gems
+*.gem
+
+# Design Files
+*.psd
+*.ai
+
+# IntelliJ
+.idea
+
+.DS_Store
+.github
+
