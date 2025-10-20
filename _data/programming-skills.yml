@@ -1,11 +1,20 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color: danger
+- name: C# 
+  color: secondary
 
 - name: Python
-  #percentage: 70
-  #color: secondary
+  color: secondary
+
+- name: React
+  color: secondary
+
+- name: Software architecture
+  color: secondary
+
+- name: Machine Learning
+  color: secondary
+
+- name: Databases
+  color: secondary
+
+- name: Azure
+  color: secondary

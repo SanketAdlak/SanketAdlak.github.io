@@ -1,7 +1,14 @@
-- name: Canva
-  percentage: 95
-  color: info
+- name: Product Strategy
+  color: secondary
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Roadmapping
+  color: secondary
+
+- name: Agile Methodologies
+  color: secondary
+
+- name: User-Centered Design
+  color: secondary
+
+- name: Full-Stack Development
+  color: secondary

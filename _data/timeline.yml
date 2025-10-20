@@ -2,20 +2,12 @@
 - title: Teaching Assistant, IIIT-Hyderabad
   from: August, 2025
   to: December, 2025
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Teaching Assistant for the graduate-level "Software System Development" course, I mentored students on the principles of designing and building modern software. My goal was to help them connect theory with real-world application. I led lab sessions and office hours, providing hands-on guidance with technologies like Python, Flask, JavaScript, and REST APIs. This support empowered students to develop the practical skills needed to create scalable and maintainable software for complex projects.
 
 - title: Intern - Product Management, iHub-data, IIIT-Hyderabad
   from: May, 2025
   to: August, 2025
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Product Management Intern, I helped shape the monetization and adoption strategy for key datasets. Through stakeholder interviews, competitive research, and data quality analysis, I identified new revenue opportunities and prioritized B2B-focused solutions. My work influenced product roadmap decisions and supported new third-party research collaborations through the creation of a strategic pitch deck.
 
 # - title: Masters in Product Design & Management, IIIT-Hyderabad
 #   from: 2024
@@ -26,23 +18,15 @@
 #                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
 #                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Accenture Pune
+- title: Software Engineer, Accenture
   from: April, 2021
   to: July, 2024
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a full-stack developer, I engineered and enhanced enterprise-level software solutions using .NET, React, and Azure. I translated complex business requirements into scalable, high-performance code and collaborated with cross-functional teams to ensure timely project delivery and successful product outcomes.
 
-- title: Data Science Intern, Chistat Analytics, Pune
+- title: Intern - Data Science, Chistat Analytics
   from: August, 2018
   to: April, 2019
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a Data Science Intern, I focused on enhancing document intelligence through machine learning. My work involved improving OCR accuracy using advanced image processing techniques and developing a key solution to convert non-searchable PDFs into fully searchable documents. Additionally, I implemented a case-based reasoning system with Tesseract and NLP to automatically classify and recognize various invoice formats.
 
 # - title: Student, Dr. Babasaheb Ambedkar Marathwada University
 #   from: 2015
